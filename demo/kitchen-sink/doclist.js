@@ -99,6 +99,7 @@ var docs = {
     "docs/python.py": "Python",
     "docs/ruby.rb": "Ruby",
     "docs/scala.scala": "Scala",
+    "docs/sass.sass": "SASS",
     "docs/scss.scss": "SCSS",
     "docs/sh.sh": "SH",
     "docs/sql.sql": {name: "SQL", wrapped: true},
